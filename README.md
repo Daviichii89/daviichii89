@@ -24,7 +24,7 @@ const david = {
 const contacts = {
   website: "https://portfolio-david.surge.sh/",
   mail: "davichi89@gmail.com",
-  linkedin: "https://www.linkedin.com/in/david-fernandez-106235218/"
+  linkedin: "https://www.linkedin.com/in/daviichii/"
 }
 ```
 
