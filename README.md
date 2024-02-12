@@ -10,7 +10,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/oakoudad/badge42">
-  <img src="https://badge.mediaplus.ma/levi/davifer2?1337Badge=off&UM6P=off" width="400px" height="280px" alt="davifer2's 42 stats" align="right" />
+  <img src="https://badge.mediaplus.ma/levi/davifer2?1337Badge=off&UM6P=off" width="350px" height="280px" alt="davifer2's 42 stats" align="right" />
 </a>
   
 ```js
